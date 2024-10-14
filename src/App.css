@@ -12,7 +12,9 @@
     z-index: 10000000;
   }
 }
-
+.bghomeimage{
+  background-image: url("https://i.pinimg.com/564x/9e/e9/bd/9ee9bdbe82a9e631f7165d6f15adb8b4.jpg");
+}
 .e-dlg-center-center, .e-quick-popup-wrapper.e-device{
   z-index: 1000000 !important;
 }
