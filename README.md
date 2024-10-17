@@ -2,6 +2,9 @@
 
 This project is a fully responsive **eCommerce Dashboard** built with **React**, **Syncfusion**, and **React Router**. The dashboard offers comprehensive analytics and tools to manage orders, employees, customers, and more.
 
+![Dashboard Overview](./dashbord.jpg)
+
+
 ## Features
 
 - **eCommerce Statistics**: Displays key metrics for orders, employees, and customers.
@@ -12,6 +15,11 @@ This project is a fully responsive **eCommerce Dashboard** built with **React**,
 - **WYSIWYG Editor**: Create and edit content directly from the dashboard.
 - **Color Picker**: Choose custom colors to style your content.
 - **Charts and Graphs**: Visualize business data with multiple types of charts.
+
+
+![Orders Page](./orders.jpg)
+![area Board](./area.jpg)
+
 
 ## Technologies Used
 
